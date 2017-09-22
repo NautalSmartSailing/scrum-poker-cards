@@ -7,7 +7,6 @@ As Nautal team growths, also does our metodologies and guess it! We've choosen [
 To make the sprint planning meeting a little bit more fun, we created our own planning poker cards.
 The main idea is that each card represents the dificulty of a given task with a number. All of them based in the sea and nautical wold
 
-
 Here is what each card means:
 
 - 0 - You know, for a clownfish, he really isn't that funny
