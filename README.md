@@ -1,7 +1,9 @@
 # Planning Poker cards by Nautal
 # Based on the idea of [Redbooth Planning Cards](https://github.com/redbooth/scrum-poker-cards)
 
+
 As Nautal team growths, also does our metodologies and guess it! We've choosen [Scrum](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)!
+
 
 To make the sprint planning meeting a little bit more fun, we created our own planning poker cards.
 The main idea is that each card represents the dificulty of a given task with a number. All of them based in the sea and nautical wold
