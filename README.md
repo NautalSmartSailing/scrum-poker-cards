@@ -1,6 +1,8 @@
 # Planning Poker cards by Nautal
 Based on the idea of [Redbooth Planning Cards](https://github.com/redbooth/scrum-poker-cards)
 
+![](https://raw.githubusercontent.com/Nautal/scrum-poker-cards/master/images/cards-layout.jpg)
+
 As Nautal team growths, also does our metodologies and guess it! We've choosen [Scrum](http://en.wikipedia.org/wiki/Scrum_%28software_development%29)!
 
 
