@@ -26,7 +26,7 @@ Here is what each card means:
 **Special** cards:
 - Help! I need somebody... - Need people for this task
 - Starbucks time - Let's have a break
-- No idea were I am - Don't know enough about this task
+- No idea where I am - Don't know enough about this task
 - Tsunami coming! - Task that will generate a lot of issues
 - Emergency - Could be a personal or a work emergency but the meeting has ended
 
